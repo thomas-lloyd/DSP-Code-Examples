@@ -6,6 +6,9 @@ Contained here are various code examples for implementing basic DSP algorithms u
 
 ## Prerequisites
 
+* Python 3
+  * You will need an installation of Python 3 along with the necessary libraries for Numpy (numerical python), Scipy (scientific python) and matplotlib.  I recommend downloading [Anaconda](https://www.anaconda.com/download/), which comes with all these libraries along with a nice command line and IDE.
+
 ## Some Basics (Python)
 
 ### Reading a Wav File
