@@ -22,6 +22,18 @@ fp ='folder\\audio.wav'
 #x=audio data
 fs,x=sw.read(fp);
 ```
+### Generating a Sine wave
+```python
+import numpy as np
+#Set Frequency
+f=1000;
+#Set Length (samples)
+length=1024;
+T=1/fs;
+t = (np.linspace(0,length-1,num = length))*T
+s = np.sin(2*(np.pi)*t*f)
+```
+
 ### Plotting a graph
 ```python
 #import library for plotting graphs
