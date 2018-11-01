@@ -17,7 +17,7 @@ Contained here are various code examples for implementing basic DSP algorithms u
 
 Lesson | Topics Covered
 ------------ | -------------
-[Lesson 0](../tree/master/lesson0) | Basics / Importing the necessary libraries.
+[Lesson 0](/tree/master/lesson0) | Basics / Importing the necessary libraries.
 Lesson 1 | Importing and analysising audio.
 Lesson 2 | Basic FIR filtering.
 Lesson 3 | IIR filtering.
