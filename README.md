@@ -2,7 +2,7 @@
 
 ## Overview
 
-Contained here are various code examples for implementing basic DSP algorithms using C and Python
+Contained here are various code examples for implementing basic DSP algorithms using Python.
 
 ## Prerequisites
 
@@ -43,7 +43,3 @@ plt.plot(x);
 #show plot
 plt.show();
 ```
-
-
-## Some Basics (C)
-Coming soon...
